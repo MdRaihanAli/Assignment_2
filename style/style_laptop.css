@@ -1,0 +1,87 @@
+@media screen and (max-width:768px) {
+    .container {
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    .nav {
+        flex-direction: column;
+        padding-top: 10px;
+
+    }
+    .logo{
+        font-size: 35px;
+    }
+    .nav_lists{
+        width: 100%;
+        padding: 10px 0;
+        background-color: aliceblue;
+        justify-content: center;
+    }
+    .header_container {
+        margin-top: 40px;
+        text-align: center;
+    }
+    /* .header_title{
+        font-size: 50px;
+    } */
+    .hero_title{
+        font-size: 35px;
+    }
+    .hero_inner{
+        grid-template-columns: repeat(1, 1fr);
+        gap: 30px;
+    }
+    /* Features_section */
+
+    .Features_inner{
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .Features_content{
+        padding-right: 0;
+       
+    }
+    .for_ab{
+        padding: 30px;
+        bottom: 0px;
+        left: 40%;
+    }
+    .remove{
+        display: block;
+    }
+    .show{
+        text-align: right;
+        display: none;
+    }
+    /* some_sacts */
+    .facts_inner{
+        text-align: center;
+    }
+
+    .facts_items{
+        grid-template-columns: repeat(2, 1fr);
+        margin-top: 40px;
+    }
+    .team_inner{
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
