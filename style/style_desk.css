@@ -200,10 +200,10 @@ a{
     position: absolute;
     background-color: #FF900E;
     color: #fff;
-    padding: 40px;
+    padding: 40px ;
     border-radius: 5px;
-    bottom: 30px;
-    left: 45%;
+    bottom: 17px;
+    left: 44%;
 }
 .show{
     text-align: right;

@@ -9,79 +9,73 @@
         padding-top: 10px;
 
     }
-    .logo{
+
+    .logo {
         font-size: 35px;
     }
-    .nav_lists{
+
+    .nav_lists {
         width: 100%;
         padding: 10px 0;
         background-color: aliceblue;
         justify-content: center;
     }
+
     .header_container {
         margin-top: 40px;
         text-align: center;
     }
+
     /* .header_title{
         font-size: 50px;
     } */
-    .hero_title{
+    .hero_title {
         font-size: 35px;
     }
-    .hero_inner{
+
+    .hero_inner {
         grid-template-columns: repeat(1, 1fr);
         gap: 30px;
     }
+
     /* Features_section */
 
-    .Features_inner{
+    .Features_inner {
         grid-template-columns: repeat(1, 1fr);
     }
-    .Features_content{
+
+    .Features_content {
         padding-right: 0;
-       
+
     }
-    .for_ab{
-        padding: 30px;
-        bottom: 0px;
-        left: 40%;
+
+    .for_ab {
+        padding: 30px 45px;
+        bottom: -40px;
+        left: 38%;
     }
-    .remove{
+
+    .remove {
         display: block;
     }
-    .show{
+
+    .show {
         text-align: right;
         display: none;
     }
+
     /* some_sacts */
-    .facts_inner{
+    .facts_inner {
         text-align: center;
     }
 
-    .facts_items{
+    .facts_items {
         grid-template-columns: repeat(2, 1fr);
         margin-top: 40px;
     }
-    .team_inner{
+
+    .team_inner {
         grid-template-columns: repeat(2, 1fr);
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 }
